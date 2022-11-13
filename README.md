@@ -1,99 +1,47 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# Multi-choice quiz using Javascript    
 
-## Your Task
+## Description
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+During this project, I wanted to be able to put my Javascript skills to the test. This web app will allow users to take view a daily schedule planner that they can store information as a reminder of what they need to get done on an hourly basis. They will be able to see the current hour, past hours, and future hours based on the color coordination. They are also able to see the current time on the top of the web page.  
 
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+- My motivation for this project was to be able to put some of my Javascript skills into on larger scale project. I wanted to be able to make a fun and interactive way to show off my web api and javascript abilities. This was also a practical way to use a real web app for practical use.
+- I built this project because I wanted to have anyone be able to use an easy to use project that I built. 
+- This will be a practical way for the user to use a project that I built. 
+- During this project I learned how to be able to impliment different practices into one large function and be able to practice my skills with local storage.
 
-## User Story
+## Installation
 
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+- In order to see the website live, you can follow this link. https://jvanduyn.github.io/daily-planner
 
-## Acceptance Criteria
+- If you wish to view the code, please visit my Github repository. https://github.com/Jvanduyn/daily-planner.
 
-```md
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+- If you wish to install the code, you must click on the large green button that displays "Code". From there you will copy this link under the SSH key (git@github.com:Jvanduyn/daily-planner.git).
 
-The following animation demonstrates the application functionality:
+- You will then need to open your operating systems terminal and type "git clone git@github.com:Jvanduyn/daily-planner.git". From there you will need to type "cd daily-planner". Lastly you will need to type the phrase "code .". You now have access to the repository! Below is a screen shot of the repository as well as the live website. 
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+## Usage
 
-## Grading Requirements
+![alt text](assets/images/github.png)
+![alt text](assets/images/demo1.png)
+![alt text](assets/images/demo2.png)
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+## Credits
 
-This Challenge is graded based on the following criteria:
+During this project, I collaborated with two people I would like to thank. 
 
-### Technical Acceptance Criteria: 40%
+First I collaborated with my fellow classmate Alexander. He and I were able to get most of the project working together minus a few issues with the local storage. I would also like to thank a classmate tyler who was able to help me understand how to pull the stored information and display it on the page for the local storage. 
 
-* Satisfies all of the above acceptance criteria plus the following:
+Lastly I was able to work with a tutor of mine Vinnie Lopez. He was able to really help me polish the project off by getting the code working perfectly, and being able to consolidate most of the code to make it functioning properly.
 
-  * Uses a date utility library to work with date and time
+## Features
 
-### Deployment: 32%
+This project allows a user to view a 9-5 workday planner and be able to add and store information as needed as a reminder to get things done throughout the day. 
 
-* Application deployed at live URL
+The user will be able to see the current time of day, and see what is the current hour, future hours, and past hours based off a color code system. 
+- They will be able to save any custom text under whichever code block they select. 
+- If they save the text on the page, they will be able to revisit the site and have it still be there.
 
-* Application loads with no errors
-
-* Application GitHub URL submitted
-
-* GitHub repo contains application code
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate
-
-* Application user interface style is clean and polished
-
-* Application resembles the mock-up functionality provided in the Challenge instructions
-
-### Repository Quality: 13%
-
-* Repository has a unique name
-
-* Repository follows best practices for file structure and naming conventions
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages
-
-* Repository contains quality README file with description, screenshot, and link to deployed application
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application
-
-* The URL of the GitHub repository, with a unique name and a README describing the project
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+## Contact
+If you wish to contact me, you can reach me at both my email and my github site. 
+- jcvanduyn@yahoo.com
+- https://github.com/Jvanduyn
