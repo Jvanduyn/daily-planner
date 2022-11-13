@@ -11,7 +11,7 @@ During this project, I wanted to be able to put my Javascript skills to the test
 
 ## Installation
 
-- In order to see the website live, you can follow this link. https://jvanduyn.github.io/daily-planner
+- In order to see the website live, you can follow this link. https://jvanduyn.github.io/daily-planner/
 
 - If you wish to view the code, please visit my Github repository. https://github.com/Jvanduyn/daily-planner.
 
